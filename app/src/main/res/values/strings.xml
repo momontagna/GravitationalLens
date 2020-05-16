@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">重力レンズ効果</string>
+    <string name="tv_title">重力レンズ効果</string>
+    <string name="bt_take_photo">写真を撮る</string>
+    <string name="bt_use_picture">画像を選択する</string>
+    <string name="bt_back_main">メイン画面に戻る</string>
+    <string name="bt_save_picture">画像を保存する</string>
+    <string name="bt_strain">歪める</string>
+</resources>
